@@ -16,7 +16,6 @@ bladex/sentinel-dashboard:1.8.5
 openjdk:8
 python:3.8.10
 qdrant/qdrant
-itcast_jvm_demo:1.0
 apache/skywalking-ui:8.3.0
 apache/skywalking-oap-server:8.3.0-es7
 openzipkin/zipkin
